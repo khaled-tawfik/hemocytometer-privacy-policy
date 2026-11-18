@@ -1,0 +1,113 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Hemocytometer Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #263238;
+            background: #f8fafc;
+        }
+        h1, h2 { color: #1565c0; }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+        }
+        footer {
+            margin-top: 30px;
+            color: #607d8b;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+<h1>Privacy Policy</h1>
+<h2>Hemocytometer Calculator</h2>
+
+<p><strong>Effective Date:</strong> November 18, 2026</p>
+
+<h2>1. Introduction</h2>
+<p>
+Hemocytometer Calculator respects your privacy.
+This Privacy Policy explains how information is handled
+when you use our application.
+</p>
+
+<h2>2. Information Collection</h2>
+<p>
+Hemocytometer Calculator does not require account
+registration or personal information to use its features.
+</p>
+<p>
+The application stores information locally on your device,
+including:
+</p>
+<ul>
+    <li>Cell counting results.</li>
+    <li>Counting session records.</li>
+    <li>Application preferences and settings.</li>
+</ul>
+
+<h2>3. Data Storage</h2>
+<p>
+Application data is stored locally on your device.
+The application does not send your counting results
+or saved session records to the developer's servers.
+</p>
+
+<h2>4. Data Sharing</h2>
+<p>
+We do not sell, rent, or share your locally stored
+counting results or session records with third parties.
+</p>
+
+<h2>5. Data Security</h2>
+<p>
+Your application data is stored on your device.
+You are responsible for maintaining the security
+of your device.
+</p>
+<p>
+Uninstalling the application or clearing its storage
+may permanently delete locally stored application data.
+</p>
+
+<h2>6. Children's Privacy</h2>
+<p>
+This application is a laboratory calculation tool
+and is not specifically directed at children.
+</p>
+
+<h2>7. Changes to This Privacy Policy</h2>
+<p>
+We may update this Privacy Policy from time to time.
+Any changes will be published on this page with
+an updated effective date.
+</p>
+
+<h2>8. Contact Us</h2>
+<p>
+If you have questions about this Privacy Policy,
+please contact the developer at:
+</p>
+<p><strong>Email:</strong> [ksoft.apps@gmail.com]</p>
+
+<footer>
+    &copy; 2026 Hemocytometer Calculator.
+    All rights reserved.
+</footer>
+
+</div>
+</body>
+</html>
+```
